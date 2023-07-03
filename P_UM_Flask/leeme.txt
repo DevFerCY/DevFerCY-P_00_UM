@@ -1,9 +1,25 @@
 LP: Pytoh 3.11.4
 Repositorio: Git 2.41.0.windows.1
-Framework: Flask
+Framework: Flask 2.1.2
 BD: MySQL
 Developer: Luis Camargo
 
 1. Instalación del Entorno virtual de python
     > py -3 -m venv .venv
     > py -m venv .venv
+
+2. Intalacion de Flak 2.1.2 en el entorno virtual
+    > pip install Flask 
+
+    Package      Version
+    ------------ -------
+    blinker      1.6.2
+    click        8.1.3
+    colorama     0.4.6
+    Flask        2.3.2
+    itsdangerous 2.1.2
+    Jinja2       3.1.2
+    MarkupSafe   2.1.3
+    pip          23.1.2
+    setuptools   65.5.0
+    Werkzeug     2.3.6   
