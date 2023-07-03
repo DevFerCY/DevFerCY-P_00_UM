@@ -1,0 +1,9 @@
+LP: Pytoh 3.11.4
+Repositorio: Git 2.41.0.windows.1
+Framework: Flask
+BD: MySQL
+Developer: Luis Camargo
+
+1. Instalación del Entorno virtual de python
+    > py -3 -m venv .venv
+    > py -m venv .venv
