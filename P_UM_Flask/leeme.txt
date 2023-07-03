@@ -23,3 +23,7 @@ Developer: Luis Camargo
     pip          23.1.2
     setuptools   65.5.0
     Werkzeug     2.3.6   
+
+    > pip install flask-login //Flask-Login  0.6.2
+    > pip install flask-WTF   //Flask-WTF    1.1.1
+
