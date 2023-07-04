@@ -30,3 +30,7 @@ Developer: Luis Camargo
 3. Instalacion de Extensión MySQLdb para Flask
     > pip install Flask-MySQLdb //Flask-MySQLdb 1.0.1
 
+4. Desarrollar el login de la aplicación
+    - Login
+    - Logout
+
