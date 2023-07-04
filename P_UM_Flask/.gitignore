@@ -1,0 +1,5 @@
+
+__pycache_/
+*.py[cod]
+
+.Pytest_cache/
